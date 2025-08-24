@@ -12,7 +12,6 @@ Unlike a pure mentorship role, I was actively involved in **building the prototy
 
 ## Deliverables
 - **Presentation (Canva link):** [View online](https://www.canva.com/…)
-- **PDF Export:** see `/docs/presentation.pdf`
 - **Slides (images):** see `/assets/slides/`
 - **Photos from event:** see `/assets/event_photos/`
 - **Prototype demo:** video is available through the Canva link
