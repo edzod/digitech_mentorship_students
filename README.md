@@ -1,0 +1,25 @@
+# Digitech – Base44 Prototype Project
+
+This repository documents the prototype and final pitch developed in the **Digitech national entrepreneurship program**, using the **Base44 platform**.  
+Unlike a pure mentorship role, I was actively involved in **building the prototype and shaping the pitch** together with the students.
+
+## My Role
+- Worked hands-on with the team to **design and implement parts of the Base44 prototype**.
+- Explained how to structure work in Base44 (blocks, methods, comparing approaches).
+- Co-created the **presentation content**: what to highlight, how to explain the solution, and what was missing.
+- Trained the team on **pitching and public speaking**.
+- Brought inspiration and ideas to sharpen their value proposition.
+
+## Deliverables
+- **Presentation:** [View on Canva](https://www.canva.com/design/DAGgSj-j6b4/IUtJpiL0DN8z9Rl7BbHbig/edit)  
+- **PDF Export:** see `/docs/presentation.pdf`  
+- **Photos:** in `/assets/` (mentoring + final event)
+
+## Final Pitch
+- 3-minute pitch + 1-minute demo of the Base44 prototype.
+- Presented to a judging panel including **Microsoft** and **StarPlan**.
+- Included live Q&A with the judges.
+
+---
+
+✨ This project highlights my ability to **mentor and also co-create**, blending teaching, guidance, and hands-on development in a real innovation program.
