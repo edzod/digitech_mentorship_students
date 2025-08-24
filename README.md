@@ -11,9 +11,11 @@ Unlike a pure mentorship role, I was actively involved in **building the prototy
 - Brought inspiration and ideas to sharpen their value proposition.
 
 ## Deliverables
-- **Presentation:** [View on Canva](https://www.canva.com/design/DAGgSj-j6b4/IUtJpiL0DN8z9Rl7BbHbig/edit)  
-- **PDF Export:** see `/docs/presentation.pdf`  
-- **Photos:** in `/assets/` (mentoring + final event)
+- **Presentation (Canva link):** [View online](https://www.canva.com/…)
+- **PDF Export:** see `/docs/presentation.pdf`
+- **Slides (images):** see `/assets/slides/`
+- **Photos from event:** see `/assets/event_photos/`
+- **Prototype demo:** video is available through the Canva link
 
 ## Final Pitch
 - 3-minute pitch + 1-minute demo of the Base44 prototype.
